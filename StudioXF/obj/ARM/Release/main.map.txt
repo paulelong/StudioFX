@@ -1,0 +1,18 @@
+[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+"ResourceDimensions"		"language-en-US"
+
+[Files]
+"E:\Users\Paul\Documents\src\StudioXF\StudioXF\obj\ARM\Release\split.pri"			"resources.pri"
+"E:\Users\Paul\Documents\src\StudioXF\StudioXF\obj\ARM\Release\PackageLayout\StudioXF.exe"			"StudioXF.exe"
+"E:\Users\Paul\Documents\src\StudioXF\StudioXF\obj\ARM\Release\PackageLayout\StudioXF.dll"			"StudioXF.dll"
+"E:\Users\Paul\Documents\src\StudioXF\StudioXF\obj\ARM\Release\PackageLayout\ClrCompression.dll"			"ClrCompression.dll"
+"E:\Users\Paul\Documents\src\StudioXF\StudioXF\obj\ARM\Release\PackageLayout\ApplicationInsights.config"			"ApplicationInsights.config"
+"E:\Users\Paul\Documents\src\StudioXF\StudioXF\obj\ARM\Release\PackageLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"E:\Users\Paul\Documents\src\StudioXF\StudioXF\obj\ARM\Release\PackageLayout\Assets\StoreLogo.png"			"Assets\StoreLogo.png"
+"E:\Users\Paul\Documents\src\StudioXF\StudioXF\obj\ARM\Release\PackageLayout\Assets\Square44x44Logo.targetsize-24_altform-unplated.png"			"Assets\Square44x44Logo.targetsize-24_altform-unplated.png"
+"E:\Users\Paul\Documents\src\StudioXF\StudioXF\obj\ARM\Release\PackageLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"E:\Users\Paul\Documents\src\StudioXF\StudioXF\obj\ARM\Release\PackageLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"E:\Users\Paul\Documents\src\StudioXF\StudioXF\obj\ARM\Release\PackageLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"E:\Users\Paul\Documents\src\StudioXF\StudioXF\obj\ARM\Release\PackageLayout\Assets\LockScreenLogo.scale-200.png"			"Assets\LockScreenLogo.scale-200.png"

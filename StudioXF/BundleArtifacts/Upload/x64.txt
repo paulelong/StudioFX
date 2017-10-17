@@ -1,0 +1,2 @@
+MainPackage=E:\Users\Paul\Documents\src\StudioXF\StudioXF\bin\x64\Release\Upload\StudioXF_1.1.4.0_x64.appx
+SymbolPackage=E:\Users\Paul\Documents\src\StudioXF\StudioXF\AppPackages\StudioXF_1.1.4.0\StudioXF_1.1.4.0_x64.appxsym
